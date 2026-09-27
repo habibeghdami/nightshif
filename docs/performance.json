@@ -1,0 +1,76 @@
+{
+  "high": {
+    "samples": 360,
+    "frameMs": {
+      "mean": 16.66583333333335,
+      "p50": 16.699999999999818,
+      "p95": 16.700000000000728
+    },
+    "updateCpuMs": {
+      "mean": 0.43111111121252177,
+      "p50": 0.19999999925494194,
+      "p95": 1.800000000745058
+    },
+    "renderSubmitCpuMs": {
+      "mean": 1.6994444443844259,
+      "p50": 1.5999999977648258,
+      "p95": 3
+    },
+    "gpuMs": {
+      "mean": 2.7924929637883,
+      "p50": 2.752374,
+      "p95": 3.081833
+    },
+    "drawCalls": {
+      "mean": 228.93055555555554,
+      "p50": 228,
+      "p95": 236
+    },
+    "memory": {
+      "geometries": 84,
+      "textures": 11
+    },
+    "jsHeapBytes": 77763999
+  },
+  "low": {
+    "samples": 360,
+    "frameMs": {
+      "mean": 16.66611111111111,
+      "p50": 16.69999999999891,
+      "p95": 16.799999999999272
+    },
+    "updateCpuMs": {
+      "mean": 0.4827777778108915,
+      "p50": 0.19999999925494194,
+      "p95": 2.199999999254942
+    },
+    "renderSubmitCpuMs": {
+      "mean": 1.6505555555120939,
+      "p50": 1.300000000745058,
+      "p95": 3.100000001490116
+    },
+    "gpuMs": {
+      "mean": 2.396455175,
+      "p50": 2.340833,
+      "p95": 2.821875
+    },
+    "drawCalls": {
+      "mean": 206.26666666666668,
+      "p50": 203,
+      "p95": 219
+    },
+    "memory": {
+      "geometries": 100,
+      "textures": 11
+    },
+    "jsHeapBytes": 61386603
+  },
+  "context": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36"
+  }
+}

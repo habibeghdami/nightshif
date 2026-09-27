@@ -1,0 +1,200 @@
+{
+  "results": [
+    {
+      "name": "Throttle accelerates; braking slows",
+      "pass": true
+    },
+    {
+      "name": "Reverse is bounded",
+      "pass": true
+    },
+    {
+      "name": "Disabled car cannot accelerate; repair restores driving",
+      "pass": true
+    },
+    {
+      "name": "Collision damage scales with intensity",
+      "pass": true
+    },
+    {
+      "name": "Every tuning parameter changes simulation stats",
+      "pass": true
+    },
+    {
+      "name": "Vehicle switch preserves reusable controller and changes handling",
+      "pass": true
+    },
+    {
+      "name": "Save roundtrip and corrupt primary recovery",
+      "pass": true
+    },
+    {
+      "name": "Extreme and invalid tuning sanitized",
+      "pass": true
+    },
+    {
+      "name": "Infinite money remains a safe, optional save flag",
+      "pass": true
+    },
+    {
+      "name": "sprint: countdown, checkpoints, finish and reward",
+      "pass": true
+    },
+    {
+      "name": "circuit: countdown, checkpoints, finish and reward",
+      "pass": true
+    },
+    {
+      "name": "time trial: countdown, checkpoints, finish and reward",
+      "pass": true
+    },
+    {
+      "name": "checkpoint: countdown, checkpoints, finish and reward",
+      "pass": true
+    },
+    {
+      "name": "speed challenge: countdown, checkpoints, finish and reward",
+      "pass": true
+    },
+    {
+      "name": "Checkpoint event times out",
+      "pass": true
+    },
+    {
+      "name": "Abandon gives no reward; restart clears progress",
+      "pass": true
+    },
+    {
+      "name": "Results reward cannot be duplicated",
+      "pass": true
+    },
+    {
+      "name": "Disabled vehicle cannot enter race",
+      "pass": true
+    },
+    {
+      "name": "Swept checkpoint detection handles high speed",
+      "pass": true
+    },
+    {
+      "name": "Navigation routes on orthogonal roads",
+      "pass": true
+    },
+    {
+      "name": "Physical driving completes sprint through world",
+      "pass": true,
+      "seconds": 32.18,
+      "health": 100,
+      "checkpoint": 5
+    },
+    {
+      "name": "Physical driving completes circuit through world",
+      "pass": true,
+      "seconds": 53.78,
+      "health": 100,
+      "checkpoint": 10
+    },
+    {
+      "name": "Physical driving completes time trial through world",
+      "pass": true,
+      "seconds": 50.45,
+      "health": 100,
+      "checkpoint": 5
+    },
+    {
+      "name": "Physical driving completes checkpoint through world",
+      "pass": true,
+      "seconds": 38.75,
+      "health": 100,
+      "checkpoint": 6
+    },
+    {
+      "name": "Physical driving completes speed challenge through world",
+      "pass": true,
+      "seconds": 16.68,
+      "health": 100,
+      "checkpoint": 4
+    },
+    {
+      "name": "Untouched inputs stay finite",
+      "pass": true
+    },
+    {
+      "name": "Enter-city button starts driving",
+      "pass": true
+    },
+    {
+      "name": "Real keyboard throttle advances vehicle",
+      "pass": true
+    },
+    {
+      "name": "Wall impact damages and blocks vehicle",
+      "pass": true
+    },
+    {
+      "name": "Destroyed car recovery and repair controls work",
+      "pass": true
+    },
+    {
+      "name": "Fleet buttons switch cars",
+      "pass": true
+    },
+    {
+      "name": "Locked car requires credits and unlock persists",
+      "pass": true
+    },
+    {
+      "name": "Infinite-money toggle enables zero-balance purchases and free recovery",
+      "pass": true
+    },
+    {
+      "name": "Disabling infinite money restores normal spending without losing unlocked cars",
+      "pass": true
+    },
+    {
+      "name": "Ride-height range changes visual body and handling",
+      "pass": true
+    },
+    {
+      "name": "Paint and wheel controls update materials",
+      "pass": true
+    },
+    {
+      "name": "Map lists real events; zoom and selection work",
+      "pass": true
+    },
+    {
+      "name": "Garage entry blocked during active race",
+      "pass": true
+    },
+    {
+      "name": "Pause freezes race clock",
+      "pass": true
+    },
+    {
+      "name": "Restart resets event, abandon gives no reward",
+      "pass": true
+    },
+    {
+      "name": "Tunnel center and bridge deck are traversable",
+      "pass": true
+    },
+    {
+      "name": "Traffic pool remains bounded across travel",
+      "pass": true
+    },
+    {
+      "name": "Save retains unlocks, tuning, style and damage",
+      "pass": true
+    },
+    {
+      "name": "Settings control updates actual resolution",
+      "pass": true
+    },
+    {
+      "name": "Actual browser reload restores saved progression and setup",
+      "pass": true
+    }
+  ],
+  "runtimeErrors": []
+}
